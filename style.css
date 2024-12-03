@@ -1,0 +1,18 @@
+.center{
+	height: 915px;
+	width: 750px;
+	background-color:#A9A9A9;
+	border:5px solid #FFFFFF;
+	background:rgba(0, 0, 0, .5);
+}
+h1{
+	font-family:verdana;
+	color:white;
+}
+h2{
+	font-family:arial;
+	color:gray;
+}
+p{
+	color:white
+}
